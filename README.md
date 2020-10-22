@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js, Electron.JS , Alphine.JS and Tailwind**
 
-- 👯 I’m looking to collaborate on **qwrwrwe**
-
 - 🤝 I’m looking for help with **UI/UX**
 
 - 💬 Ask me about **UI/UX**
