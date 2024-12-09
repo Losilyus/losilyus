@@ -36,7 +36,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📫 How to reach me: <a href="mailto: fahrettinakpinar+github@hotmail.com">fahrettinakpinar@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: me@fahrettinakpinar.com">fahrettinakpinar@hotmail.com</a>
 </p>
 
 <hr>
