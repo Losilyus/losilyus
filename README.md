@@ -37,6 +37,8 @@
   💻 I love writing code and learn anythings about it
   <br>
   📫 How to reach me: <a href="mailto: me@fahrettinakpinar.com">fahrettinakpinar@hotmail.com</a>
+    <br>
+  🌍 My Web Site: <a href="https://fahrettinakpinar.com/">https://fahrettinakpinar.com</a>
 </p>
 
 <hr>
